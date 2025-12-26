@@ -1,0 +1,8 @@
+numpy
+nltk
+faiss-cpu
+sentence-transformers
+google-generativeai
+python-dotenv
+pdfplumber
+sqlalchemy

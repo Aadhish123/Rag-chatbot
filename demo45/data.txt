@@ -1,0 +1,4 @@
+TCP congestion control prevents network overload.
+TCP uses slow start, congestion avoidance, fast retransmit and fast recovery.
+UDP does not provide congestion control.
+TCP adjusts its window size based on network conditions.
